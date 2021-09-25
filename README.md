@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Paul-Andrei-Onac
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on Projects
-- 📫 How to reach me onac.paul.andrei@gmail.com
+👀 I’m interested in JavaScript, PHP
+🌱 I’m currently learning JavaScript, PHP
+💞️ I’m looking to collaborate on Web Development Projects
+📫 How to reach me onac.paul.andrei@gmail.com
 
 <!---
 Paul-Andrei-Onac/Paul-Andrei-Onac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
