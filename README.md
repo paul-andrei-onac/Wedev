@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Paul-Andrei-Onac
 - 👀 I’m interested in JavaScript, PHP
-- 🌱 I’m currently learning JavaScript, PHP
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on Web Development Projects
 - 📫 How to reach me onac.paul.andrei@gmail.com
 
